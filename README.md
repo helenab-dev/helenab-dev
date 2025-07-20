@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Meu nome é Helena Bretas e sou Analísta Contábil e estudante de Desenvolviemnto Web e Análise de Dados</p>
+<p align="left">Meu nome é Helena Bretas e sou Analísta Contábil e estudante de Desenvolvimento Web e Análise de Dados</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
