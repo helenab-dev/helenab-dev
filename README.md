@@ -14,7 +14,7 @@
 ✨ Criando soluções e aprendendo a codar desde 2024<br>
 📚 Atualmente cursando pós-graduação em Análise de Dados e estudando Desenvolvimento Full-Stack<br>
 🎯 Objetivo: unir minha experiência analítica à construção de aplicações web eficientes e bem estruturadas<br>
-🎲 Curiosidade: já montei e consertei meu primeiro computador aos 15 anos!
+🎲 Curiosidade: montei e consertei meu primeiro computador aos 15 anos!
 </p>
 
 ###
