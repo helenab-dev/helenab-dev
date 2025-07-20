@@ -27,6 +27,33 @@
 
 ###
 
+<h2 align="left">Formação acadêmica</h2>
+
+###
+
+<ul align="left">
+  <li><b>Ciências Contábeis</b> – UERJ (Conclusão: 2024.1)</li>
+  <li><b>Pós-graduação em Análise de Dados</b> – DSA / Faculdade VINCIT (Término previsto: Dez/2025)</li>
+  <li><b>Intercâmbio</b> – ILSC Education Group (Full Time English Course – 8 semanas)</li>
+  <li><b>Curso de Montagem e Manutenção de Computadores</b> (2015)</li>
+</ul>
+
+###
+
+###
+
+<h2 align="left">Idiomas</h2>
+
+###
+
+<ul align="left">
+  <li>Português – Nativo</li>
+  <li>Inglês – Avançado</li>
+  <li>Coreano – Básico</li>
+</ul>
+
+###
+
 ###
 
 <h2 align="left">Linguagens:</h2>
