@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá! 👋?</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Meu nome é Helena Bretas e sou Analísta Contábil e estudante de Desenvolviemnto Web e Análise de Dados</p>
 
 ###
 
@@ -10,7 +10,22 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+✨ Criando soluções e aprendendo a codar desde 2024<br>
+📚 Atualmente cursando pós-graduação em Análise de Dados e estudando Desenvolvimento Full-Stack<br>
+🎯 Objetivo: unir minha experiência analítica à construção de aplicações web eficientes e bem estruturadas<br>
+🎲 Curiosidade: já montei e consertei meu primeiro computador aos 15 anos!
+</p>
+
+###
+
+<ul align="left">
+  <li><b>Analista Contábil I – Bram Offshore</b> (Set/2024 – Atualmente)</li>
+  <li><b>Estágio em Contabilidade – Bram Offshore</b> (Set/2022 – Ago/2024)</li>
+  <li><b>Estágio em Contas a Pagar – Capsugel</b> (Dez/2020 – Ago/2021)</li>
+</ul>
+
+###
 
 ###
 
