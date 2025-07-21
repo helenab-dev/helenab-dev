@@ -19,21 +19,14 @@
 
 ###
 
-<ul align="left">
-  <li><b>Analista Contábil I – Bram Offshore</b> (Set/2024 – Atualmente)</li>
-  <li><b>Estágio em Contabilidade – Bram Offshore</b> (Set/2022 – Ago/2024)</li>
-  <li><b>Estágio em Contas a Pagar – Capsugel</b> (Dez/2020 – Ago/2021)</li>
-</ul>
-
-###
 
 <h2 align="left">Formação acadêmica</h2>
 
 ###
 
 <ul align="left">
-  <li><b>Ciências Contábeis</b> – UERJ (Conclusão: 2024.1)</li>
   <li><b>Pós-graduação em Análise de Dados</b> – DSA / Faculdade VINCIT (Término previsto: Dez/2025)</li>
+  <li><b>Ciências Contábeis</b> – UERJ (Conclusão: 2024.1)</li>
   <li><b>Intercâmbio</b> – ILSC Education Group (Full Time English Course – 8 semanas)</li>
   <li><b>Curso de Montagem e Manutenção de Computadores</b> (2015)</li>
 </ul>
